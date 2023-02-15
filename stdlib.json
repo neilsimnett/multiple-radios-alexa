@@ -1,0 +1,6 @@
+{
+  "name": "damine/my-alexa-radio-channels",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
