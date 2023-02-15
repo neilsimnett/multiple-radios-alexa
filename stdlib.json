@@ -1,5 +1,5 @@
 {
-  "name": "damine/my-alexa-radio-channels",
+  "name": "neilsimnett/multiple-radios-alexa",
   "timeout": 10000,
   "connector": false,
   "events": {}
